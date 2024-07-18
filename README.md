@@ -1,6 +1,6 @@
 # 24solver
 
-Once I was asked at a interview round to play this game. Unfortunately, I wasn't very good. Also, I firmly believed for some of the combinations there was no solution. This project proved to me in fact there was a solution. 
+Once I played this game and I firmly believed for some of the combinations there was no solution. This project proved to me in fact there was a solution. 
 
 ## Table of Contents
 
